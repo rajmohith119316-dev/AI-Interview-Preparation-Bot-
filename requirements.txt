@@ -1,0 +1,8 @@
+Streamlit
+Groq
+Langchain
+Langchain-community
+Langchain-text-splitters
+Sentence-transformers
+Faiss-cpu
+Requests
