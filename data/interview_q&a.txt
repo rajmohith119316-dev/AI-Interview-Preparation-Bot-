@@ -1,0 +1,14 @@
+What is binary search?
+Binary search is an efficient algorithm used to find an element in a sorted array by repeatedly dividing the search interval in half.
+
+What is polymorphism?
+Polymorphism is the ability of an object to take many forms, commonly seen in method overloading and overriding.
+
+Tell me about yourself
+Start with your background, education, skills, and a brief summary of your experience.
+
+What are your strengths?
+Mention strengths like problem-solving, teamwork, adaptability with examples.
+
+What is a stack?
+A stack is a linear data structure that follows LIFO (Last In First Out).
